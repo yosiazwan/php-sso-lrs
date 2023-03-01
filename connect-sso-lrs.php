@@ -33,7 +33,7 @@ foreach($explode as $chr){
     $chr2 .= chr($octdec);
 }
 
-$file = new File('user.json');
+$file = new File('./user.json');
 $user = json_decode($file->read(), true);
 $file->close();
 
