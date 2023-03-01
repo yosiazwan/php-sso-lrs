@@ -1,5 +1,5 @@
 # php-sso-lrs
-Auto koneksi ke SSO LRS dengan menggunakan menggunakan Plugin <b>Http Client</b> CakePHP 4
+Auto koneksi ke SSO LRS dengan menggunakan Plugin <b>Http Client</b> CakePHP 4
 
 ## Requirements
 - Jaringan Internal LRS yang membutuhkan SSO Login untuk mengakses internet
