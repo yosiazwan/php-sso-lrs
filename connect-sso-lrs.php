@@ -7,7 +7,7 @@ use Cake\Filesystem\File;
 
 $http = new Client();
 
-// logout url
+// url
 $logout = 'http://ssolrs.lrs.co.id/logout';
 $login = 'http://ssolrs.lrs.co.id/login';
 $status = 'http://ssolrs.lrs.co.id/status';
